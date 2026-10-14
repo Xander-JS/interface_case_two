@@ -1,0 +1,130 @@
+{
+  "common": {
+    "brandName": "Dakingo",
+    "loginSignup": "Iniciar sesión / Registrarse",
+    "orderNow": "PEDIR AHORA",
+    "searchPlaceholder": "Buscar pasteles, postres...",
+    "searchButtonAria": "Buscar productos",
+    "cartButtonAria": "Ver carrito de compras",
+    "viewAll": "VER TODO",
+    "unlockNow": "DESBLOQUEAR AHORA",
+    "subscribe": "SUSCRIBIRSE",
+    "needHelp": "¿Hola, necesitas ayuda?",
+    "switchLanguage": "Cambiar idioma"
+  },
+  "navigation": {
+    "cakes": "Pasteles",
+    "themeCakes": "Pasteles Temáticos",
+    "desserts": "Postres",
+    "birthday": "Cumpleaños",
+    "hampers": "Cestas de Regalo",
+    "anniversary": "Aniversario",
+    "occasions": "Ocasiones",
+    "corporateOccasions": "Corporativo"
+  },
+  "hero": {
+    "titleLine1": "DECADENTE",
+    "titleLine2": "CHOCOLATE",
+    "titleLine3": "¡DELICIA!",
+    "subtitle": "Satisface tus antojos más dulces",
+    "specialOffer": "¡Oferta Especial!",
+    "discount": "AHORRA 20%",
+    "heroCakeAlt": "Pastel decadente de chocolate con glaseado y frutos rojos",
+    "miniCake1Alt": "Pastel de chocolate volcán miniatura",
+    "miniCake2Alt": "Porción de pastel de chocolate con nueces"
+  },
+  "menu": {
+    "title": "Menú",
+    "subtitle": "¿Qué vas a desear hoy?",
+    "categories": {
+      "classic": "CLÁSICO",
+      "gourmet": "GOURMET",
+      "desserts": "POSTRES",
+      "cookies": "GALLETAS"
+    }
+  },
+  "bestsellers": {
+    "title": "Los más vendidos de todo el país",
+    "items": {
+      "item1": {
+        "name": "Pastel Trufado de Chocolate Intenso",
+        "price": "₹500",
+        "badge": "Stevlnotel",
+        "reviewsCount": "300"
+      },
+      "item2": {
+        "name": "Pastel Trufado con Chispas de Chocolate",
+        "price": "₹509",
+        "badge": "Stevlnotel",
+        "reviewsCount": "300"
+      },
+      "item3": {
+        "name": "Pastel de Frutas Tropicales y Almendras",
+        "price": "₹509",
+        "badge": "Stevlnotel",
+        "reviewsCount": "300"
+      },
+      "item4": {
+        "name": "Pastel Crunch de Mantequilla y Zanahoria",
+        "price": "₹359",
+        "badge": "Stevlnotel",
+        "reviewsCount": "300"
+      }
+    }
+  },
+  "promise": {
+    "title": "Nuestra Promesa",
+    "subtitle": "¡Sin trucos secretos, solo trabajo honesto y artesanal!",
+    "statsHeading": "Un vistazo a nuestro mundo artesanal y social",
+    "stats": {
+      "onTimeDelivery": "ENTREGA A TIEMPO",
+      "designs": "5100+ DISEÑOS",
+      "orders": "2 CR+ PEDIDOS",
+      "bakedFresh": "HORNEADO FRESCO"
+    },
+    "ticket": {
+      "title": "EL BOLETO MÁGICO",
+      "description": "Agrega 3 recordatorios en tu cuenta y gana ofertas por un valor de Rs. 750"
+    },
+    "social": {
+      "followUs": "¡Síguenos en redes sociales!",
+      "socialPhotoAlt": "Momentos de celebración con pasteles Dakingo"
+    }
+  },
+  "trustBanner": {
+    "text": "Dakingo – Tu pastelería online certificada FSSAI de confianza para cada celebración"
+  },
+  "footer": {
+    "brandDescription": "Dakingo Pastelería y Repostería Artesanal",
+    "companyLinks": {
+      "ourStory": "Nuestra Historia",
+      "contactUs": "Contáctanos",
+      "locations": "Nuestras Sedes",
+      "media": "Prensa y Medios",
+      "careers": "Trabaja con Nosotros"
+    },
+    "columnKnowUsTitle": "CONÓCENOS",
+    "columnKnowUsLinks": {
+      "contact": "Contáctanos",
+      "blog": "Blog"
+    },
+    "columnNeedHelpTitle": "AYUDA",
+    "columnNeedHelpLinks": {
+      "cancellationRefund": "Cancelación y Reembolso",
+      "privacyPolicy": "Política de Privacidad"
+    },
+    "columnMoreInfoTitle1": "MÁS INFORMACIÓN",
+    "columnMoreInfoLinks1": {
+      "termsConditions": "Términos y Condiciones",
+      "customOrders": "Pedidos Personalizados"
+    },
+    "columnMoreInfoTitle2": "BENEFICIOS",
+    "columnMoreInfoLinks2": {
+      "couponsOffers": "Cupones y Ofertas",
+      "downloadApp": "Descargar Aplicación"
+    },
+    "newsletter": {
+      "placeholder": "Ingresa tu correo electrónico"
+    }
+  }
+}
