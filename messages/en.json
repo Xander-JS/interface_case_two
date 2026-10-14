@@ -1,0 +1,130 @@
+{
+  "common": {
+    "brandName": "Dakingo",
+    "loginSignup": "Login/Signup",
+    "orderNow": "ORDER NOW",
+    "searchPlaceholder": "Search cakes, desserts...",
+    "searchButtonAria": "Search products",
+    "cartButtonAria": "View shopping cart",
+    "viewAll": "VIEW ALL",
+    "unlockNow": "UNLOCK NOW",
+    "subscribe": "SUBSCRIBE",
+    "needHelp": "Hey, need any help?",
+    "switchLanguage": "Switch language"
+  },
+  "navigation": {
+    "cakes": "Cakes",
+    "themeCakes": "Theme Cakes",
+    "desserts": "Desserts",
+    "birthday": "Birthday",
+    "hampers": "Hampers",
+    "anniversary": "Anniversary",
+    "occasions": "Occasions",
+    "corporateOccasions": "Occasions"
+  },
+  "hero": {
+    "titleLine1": "DECADENT",
+    "titleLine2": "CHOCOLATE",
+    "titleLine3": "BLISS!",
+    "subtitle": "Satisfy Your Sweet Cravings",
+    "specialOffer": "Special Offer!",
+    "discount": "SAVE 20%",
+    "heroCakeAlt": "Decadent chocolate cake with berry toppings and chocolate drip",
+    "miniCake1Alt": "Mini molten chocolate lava cake",
+    "miniCake2Alt": "Walnut chocolate brownie slice"
+  },
+  "menu": {
+    "title": "Menu",
+    "subtitle": "What will you wish for?",
+    "categories": {
+      "classic": "CLASSIC",
+      "gourmet": "DOURMET",
+      "desserts": "DESSERTS",
+      "cookies": "COOKIES"
+    }
+  },
+  "bestsellers": {
+    "title": "Bestsellers from Across the Country",
+    "items": {
+      "item1": {
+        "name": "Rich Chocolate Truffle Truffle Cake",
+        "price": "₹500",
+        "badge": "Stevlnotel",
+        "reviewsCount": "300"
+      },
+      "item2": {
+        "name": "Checo Chip Truffle Cake Cake",
+        "price": "₹509",
+        "badge": "Stevlnotel",
+        "reviewsCount": "300"
+      },
+      "item3": {
+        "name": "Tropical Fruit N Almond Cake Cake",
+        "price": "₹509",
+        "badge": "Stevlnotel",
+        "reviewsCount": "300"
+      },
+      "item4": {
+        "name": "Rich Butterscotch Crunch Carrit Cake",
+        "price": "₹359",
+        "badge": "Stevlnotel",
+        "reviewsCount": "300"
+      }
+    }
+  },
+  "promise": {
+    "title": "Our Promise",
+    "subtitle": "Therts no secret spell - only honest the wark!",
+    "statsHeading": "A glimpes roo secret spell - only hocial world!",
+    "stats": {
+      "onTimeDelivery": "ON-TIME DELIVERY",
+      "designs": "5100+ DESIGNS",
+      "orders": "2 CR+ ORDERS",
+      "bakedFresh": "BAKED FRESN"
+    },
+    "ticket": {
+      "title": "THE MAGICAL TICKET",
+      "description": "Add 3 reminders in your account. Win effers worth Rs. 750"
+    },
+    "social": {
+      "followUs": "Follow us on social!",
+      "socialPhotoAlt": "Celebration moments with Dakingo cakes"
+    }
+  },
+  "trustBanner": {
+    "text": "Dakingo – Your Trusted FSSAI Certified Online Bakery for Every Celebration"
+  },
+  "footer": {
+    "brandDescription": "Dakingo Artisan Online Bakery",
+    "companyLinks": {
+      "ourStory": "Our Story",
+      "contactUs": "Contact Us",
+      "locations": "Locatir Mlass",
+      "media": "Moalla",
+      "careers": "Carnnep"
+    },
+    "columnKnowUsTitle": "KNOW US",
+    "columnKnowUsLinks": {
+      "contact": "Contact Us",
+      "blog": "Blog"
+    },
+    "columnNeedHelpTitle": "NEED HELP",
+    "columnNeedHelpLinks": {
+      "cancellationRefund": "Canulation And Refund",
+      "privacyPolicy": "Privany Poficy"
+    },
+    "columnMoreInfoTitle1": "MORE INFO",
+    "columnMoreInfoLinks1": {
+      "termsConditions": "Terrm And Giificy",
+      "customOrders": "Custorm Brekname"
+    },
+    "columnMoreInfoTitle2": "MORE INFO",
+    "columnMoreInfoLinks2": {
+      "couponsOffers": "Coqrons & Offers",
+      "downloadApp": "Dewnload App"
+    },
+    "newsletter": {
+      "placeholder": "Enter Email Address"
+    }
+  }
+}
